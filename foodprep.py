@@ -88,7 +88,7 @@ Friday
 import smtplib
 
 FROM = user
-To = rajeevtajhya@gmail.com
+To = youremail@gmail.com
 message = message
 
 server = smtplib.SMTP("smtp.gmail.com", 587)
